@@ -2,6 +2,9 @@
 
 > Serverless pre-rendering with Notion example for workshop
 
+<img width="800" src="https://user-images.githubusercontent.com/124117/71237419-c8b0ce00-2344-11ea-81b8-8644eb860dda.png">
+
+
 # File Structures
 
 ```sh
