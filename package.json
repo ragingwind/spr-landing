@@ -1,7 +1,7 @@
 {
-  "name": "jimmymoon.dev",
+  "name": "spr-landing",
   "version": "0.0.1",
-  "description": "Sharing I've got",
+  "description": "Serverless Pre-rendering with notion",
   "main": "index.js",
   "repository": "https://github.com/ragingwind/jimmymoon.dev.git",
   "author": "Jimmy Moon <ragingwind@gmail.com>",
