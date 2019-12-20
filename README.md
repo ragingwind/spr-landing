@@ -12,7 +12,7 @@
 ├── components
 │   └── notion.js # notion component
 ├── data
-│   └── notion.js # fetching and paring data from notion
+│   └── notion.js # fetching and parsing data from notion
 └── pages
     ├── api
     │   └── images.js # proxying image on notion
