@@ -1,6 +1,20 @@
-# jimmymoon.dev
+# Serverless Pre-rendering with Notion
 
-> Jimmy Moon website as a software developer to spread latest on the edge of technology
+> Serverless pre-rendering with Notion example for workshop
+
+# File Structures
+
+```sh
+.
+├── components
+│   └── notion.js # notion component
+├── data
+│   └── notion.js # fetching and paring data from notion
+└── pages
+    ├── api
+    │   └── images.js # proxying image on notion
+    └── index.js # main app
+```
 
 # Licenses
 
